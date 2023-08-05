@@ -1,0 +1,12 @@
+Lane Lines Detaction:
+
+Required libraries:
+	
+	pip install matplotlib
+	pip install opencv-python
+	pip install moviepy
+
+Required Tools:
+
+	V S Code
+	Jupyter Notebook
